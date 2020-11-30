@@ -1,0 +1,10 @@
+{
+    "ok": true,
+    "indicators": {
+        "key": "cobre",
+        "name": "Precio del Cobre, dólares por libra",
+        "unit": "dolar",
+        "date": 1577923200,
+        "value": 2.81
+    }
+}
